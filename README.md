@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Maity</h1>
-<h3 align="center">A passionate Software Developer, building real-world AI and web solutions.</h3>
+<h3 align="center">A passionate Software Developer, building real-world AI and web solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanmaity2003&label=Profile%20views&color=3e91fe&style=flat" alt="sayanmaity2003" /> </p>
 
