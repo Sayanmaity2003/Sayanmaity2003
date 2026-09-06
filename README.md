@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanmaity2003" alt="sayanmaity2003" /></a> </p>
 
-- 📫 How to reach me **sayanmaity2003@gmail.com**
+- 📫 How to reach me **sayanmaity.personal@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10cwgel-yhCHawQ28wcLo03slwjokY3yU/view?usp=sharing](https://drive.google.com/file/d/10cwgel-yhCHawQ28wcLo03slwjokY3yU/view?usp=sharing)
 
